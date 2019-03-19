@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dummy Random Generator</string>
+    <string name="prikazi_upute">Prikaži upute</string>
+    <string name="sakrij_upute">Sakrij upute</string>
+    <string name="generiraj">Generiraj slučajni broj</string>
+    <string name="generirani_broj">Generirani broj je:</string>
+    <string name="uputa_generiranje">Unosite gornju i donju granicu. Program nakon pritiska na tipku \"Generiraj slučajni broj\" generira slučajni broj u zadanom intervalu. Ako se interval ne zada, program će generirati slučajni broj u intervalu između 1 i 100.</string>
+    <string name="hint_donja_granica">Donja granica (bit će uključena)</string>
+    <string name="hint_gornja_granica">Gornja granica (neće biti uključena)</string>
+
+</resources>
